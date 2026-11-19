@@ -1,0 +1,9 @@
+node_modules/
+.env
+build/
+*.native
+*.o
+*.a
+obj_*/
+*.cooja
+*.csc.bak
